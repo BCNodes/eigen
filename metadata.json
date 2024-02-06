@@ -2,6 +2,6 @@
   "name": "devchappelle",
   "website": "www.x.com/devchappelle",
   "description": "my testnet node",
-  "logo": "https://picsum.photos/200/300.jpg",
+  "logo": "https://raw.githubusercontent.com/BCNodes/eigen/main/jayne_cobb_hat.png",
   "twitter": "www.twitter.com/devchappelle"
 }
